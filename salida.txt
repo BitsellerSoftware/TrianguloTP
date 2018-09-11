@@ -1,0 +1,11 @@
+No posee 3 lados
+Las entradas no son numeros enteros positivos
+Los numeros ingresados no forman un triangulo
+El triangulo es equilatero
+El triangulo es escaleno
+Los numeros ingresados no forman un triangulo
+El triangulo es isosceles
+El triangulo es equilatero
+El triangulo es isosceles
+Las entradas no son numeros enteros positivos
+Las entradas no son numeros enteros positivos
